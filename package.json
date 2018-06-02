@@ -12,7 +12,7 @@
     "glob": "^7.1.2",
     "html-webpack-plugin": "^3.2.0",
     "webpack": "^4.6.0",
-    "webpack-recipes": "^0.0.3",
+    "webpack-recipes": "^0.1.0",
     "webpack-recipes-devserver": "git+https://github.com/joaoneto/webpack-recipes-devserver.git#master"
   }
 }
